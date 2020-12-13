@@ -1,0 +1,9 @@
+{
+  "name": "cable_ready-cjs",
+  "version": "0.1.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "cable_ready": "4.4.4"
+  }
+}
